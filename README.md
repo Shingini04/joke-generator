@@ -31,16 +31,16 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/yourusername/joke-generator.git
-  cd joke-generator
+   git clone https://github.com/yourusername/joke-generator.git
+   cd joke-generator
 
 
 Install dependencies:
-npm install
-npm install lucide-react
+   npm install
+   npm install lucide-react
 
 Start the development server:
-npm run dev
+   npm run dev
 
 Open your browser and navigate to http://localhost:5173 to see the app in action!
 
